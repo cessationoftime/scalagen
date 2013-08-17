@@ -10,7 +10,7 @@ Scalagen has also been tested on our own projects such as Querydsl, RDFBean, Cod
 
 **Usage**
 
-Scalagen provides direct Maven support via a plugin. No need to install, it will be pulled from Maven Central.
+Scalagen provides direct Maven support via a plugin. No need to install,or mess with the POM file, it will be pulled from Maven Central.
 You can use it directly via the command line like this
 
     mvn com.mysema.scalagen:scalagen-maven-plugin_2.10.1:0.3.0:main -DtargetFolder=target/scala
